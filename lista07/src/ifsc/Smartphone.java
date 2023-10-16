@@ -2,7 +2,11 @@ package ifsc;
 
 class Smartphone extends Produto {
 	private String dimensoesTela;
+<<<<<<< Updated upstream
 	private String outraCaracteristica; 
+=======
+	private String outraCaracteristica;
+>>>>>>> Stashed changes
 
 	public String getDimensoesTela() {
 		return dimensoesTela;
